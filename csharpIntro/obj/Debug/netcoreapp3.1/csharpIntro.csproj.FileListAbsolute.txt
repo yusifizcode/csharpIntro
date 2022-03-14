@@ -1,0 +1,14 @@
+C:\Users\yusifizcode\Desktop\CodeAcademy\csharpIntro\csharpIntro\bin\Debug\netcoreapp3.1\csharpIntro.exe
+C:\Users\yusifizcode\Desktop\CodeAcademy\csharpIntro\csharpIntro\bin\Debug\netcoreapp3.1\csharpIntro.deps.json
+C:\Users\yusifizcode\Desktop\CodeAcademy\csharpIntro\csharpIntro\bin\Debug\netcoreapp3.1\csharpIntro.runtimeconfig.json
+C:\Users\yusifizcode\Desktop\CodeAcademy\csharpIntro\csharpIntro\bin\Debug\netcoreapp3.1\csharpIntro.runtimeconfig.dev.json
+C:\Users\yusifizcode\Desktop\CodeAcademy\csharpIntro\csharpIntro\bin\Debug\netcoreapp3.1\csharpIntro.dll
+C:\Users\yusifizcode\Desktop\CodeAcademy\csharpIntro\csharpIntro\bin\Debug\netcoreapp3.1\csharpIntro.pdb
+C:\Users\yusifizcode\Desktop\CodeAcademy\csharpIntro\csharpIntro\obj\Debug\netcoreapp3.1\csharpIntro.csproj.AssemblyReference.cache
+C:\Users\yusifizcode\Desktop\CodeAcademy\csharpIntro\csharpIntro\obj\Debug\netcoreapp3.1\csharpIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusifizcode\Desktop\CodeAcademy\csharpIntro\csharpIntro\obj\Debug\netcoreapp3.1\csharpIntro.AssemblyInfoInputs.cache
+C:\Users\yusifizcode\Desktop\CodeAcademy\csharpIntro\csharpIntro\obj\Debug\netcoreapp3.1\csharpIntro.AssemblyInfo.cs
+C:\Users\yusifizcode\Desktop\CodeAcademy\csharpIntro\csharpIntro\obj\Debug\netcoreapp3.1\csharpIntro.csproj.CoreCompileInputs.cache
+C:\Users\yusifizcode\Desktop\CodeAcademy\csharpIntro\csharpIntro\obj\Debug\netcoreapp3.1\csharpIntro.dll
+C:\Users\yusifizcode\Desktop\CodeAcademy\csharpIntro\csharpIntro\obj\Debug\netcoreapp3.1\csharpIntro.pdb
+C:\Users\yusifizcode\Desktop\CodeAcademy\csharpIntro\csharpIntro\obj\Debug\netcoreapp3.1\csharpIntro.genruntimeconfig.cache
